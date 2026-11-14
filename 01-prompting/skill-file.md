@@ -14,6 +14,7 @@ _____
 Analyze SMB customer issues related to Knox product onboarding and license purchasing using the latest weekly issue tracker stored in the directory:
 D:\Exercise
 The issue tracker is updated every Sunday evening. Identify and analyze all onboarding and license purchasing-related issues reported by SMB customers. Group issues by feature area, identify recurring themes, detect duplicate records, and summarize the overall customer experience.
+Each issue should also have an Action button which should create a customer ticket for the Program manager to look and prioritize for the next sprint.
 Save the presentation file in the same folder D:\Exercise
 
 _____
@@ -41,7 +42,7 @@ Executive Summary
 - Quick comparison from the last week report
 
 Feature Wise Issue Summary
-- Table with Columns: Features/Area; Number of issues in this fetaure/area; % of issues; Summary of issues; Mitigation plans
+- Table with Columns: Features/Area; Number of issues in this fetaure/area; % of issues; Summary of issues; Mitigation plans, Create Ticket Actionable Button
 
 Key Takeaways:
 - Most Problematic feature impact onboarding
