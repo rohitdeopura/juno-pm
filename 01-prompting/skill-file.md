@@ -26,7 +26,7 @@ _____
 3. Validate that the selected file is the latest available weekly issue tracker before beginning analysis
 4. Detect and flag potential duplicate issues
 5. Focus only on issues related to: Knox Onboarding and Licensing related; exclude anything unrelated
-6. Do not expose, analyze, summarize or take action on PII information like Name, Email, Phone, Payment, SSN (though just limited to these)
+6. Do not expose, analyze, summarize or take action on PII information like Name, Email, Phone, Payment, SSN (though just not limited to these)
 7. While proposing the mitigation plans, always refer to Knox policy and documentations
 
 
