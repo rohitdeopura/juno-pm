@@ -4,7 +4,12 @@
 
 ## Prototype link
 
+https://github.com/rohitdeopura/juno-pm/blob/main/02-prototype/Knox%20Ticket%20Prototype.html
 
+https://github.com/rohitdeopura/juno-pm/blob/main/02-prototype/Knox_SMB_Issue_Dashboard_Week41.html
+
+
+(use any synthetic data)
 _____
 
 ## What it demonstrates
