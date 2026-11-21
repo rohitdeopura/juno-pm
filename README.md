@@ -2,7 +2,7 @@
 
 > _(one-line pitch: what Juno does, for whom, in one sentence)_
 
-_Your name · cohort · date_
+Rohit Deopura · cohort · 14th Nov 2026 - 5th Dec 2026
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
